@@ -5,3 +5,9 @@
 console.log(3+3)
 
 console.log("Gaurav")
+
+let name  = "Sherlock"
+let age = 19
+
+let isLoggedIn = false
+
